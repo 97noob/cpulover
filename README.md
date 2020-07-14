@@ -3,7 +3,7 @@
 |[Desktop App](#desktop-applications)|[Mobile App](#mobile-applications)|[Web App/Website](#web-applicationswebsites)|[API/Service](#apiservices)|[Game](#games)|[Pratice project](#practice-projects)|[Other](#others)|
 |---|---|---|---|---|---|---|
 
-<p align="center"><img width="400" src="./header.gif"></p>
+<p align="center"><img width="400" src="https://github.com/cpulover/cpulover/blob/master/header.gif"></p>
 
 ## Desktop Applications
 - [Note-taking CLI App](https://github.com/cpulover-projects/note-taking-cli-app): A crappy console program to create, edit, manage notes and checklists for multiple users in ```Java```.
