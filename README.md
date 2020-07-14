@@ -1,6 +1,6 @@
 # [Project Collection](https://github.com/cpulover-projects)
 
-|[Desktop App](#desktop-applications)|[Mobile App](#mobile-applications)|[Web App/Website](#web-applicationswebsites)|[API/Service](#apiservices)|[Game](#games)|[Pratice project](#practice-projects)|[Other](#others)|
+|[Desktop Application](#desktop-applications)|[Mobile Application](#mobile-applications)|[Web Application/Website](#web-applicationswebsites)|[API/Service](#apiservices)|[Game](#games)|[Pratice project](#practice-projects)|[Other](#others)|
 |---|---|---|---|---|---|---|
 
 <p align="center"><img width="400" src="https://github.com/cpulover/cpulover/blob/master/header.gif"></p>
